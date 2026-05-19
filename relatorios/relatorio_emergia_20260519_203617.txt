@@ -1,0 +1,20 @@
+=======================================================
+  RELATÓRIO DE CÁLCULO DE EMERGIA
+  Gerado em: 19/05/2026 20:36:17
+=======================================================
+
+  Emergia por processo:
+    Solar               : 1000.0000 sej
+    Plantacao           : 960.0000 sej
+    ProdutoFinal        : 864.0000 sej
+    Agua                : 250.0000 sej
+    Solo                : 400.0000 sej
+
+  Fontes independentes:
+    Solar               : 1000.0000 sej
+    Agua                : 250.0000 sej
+    Solo                : 400.0000 sej
+  Total do sistema    : 1650.0000 sej
+  Minflow usado       : 1.00e-06
+
+=======================================================
